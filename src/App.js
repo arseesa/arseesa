@@ -33,7 +33,7 @@ function App() {
                 <img className="img" src={item?.avatar}/>
                 <h3>Name : {item?.name}</h3>
                 <h2>Phone : {item?.phone}</h2>
-                <h2>phon</h2>
+                <h2>phonemm</h2>
                 
               </Card>
             ))}
